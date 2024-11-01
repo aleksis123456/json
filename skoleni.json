@@ -1,0 +1,15 @@
+[{
+    "name": "Jānis",
+     "atzīme": 6, 
+     "priekšmeti": "Geografija"
+},
+{
+    "name": "Anna",
+     "atzīme": 5, 
+     "priekšmeti": "Angļu valoda"
+},
+{
+    "name": "Marija",
+     "atzīme": 7, 
+     "priekšmeti": "Matematika"
+}]
